@@ -1,8 +1,11 @@
+
+
+
 package com.example.jawad_dallashe_edittext;
 
-import androidx.appcompat.app.AppCompatActivity;
+        import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+        import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
