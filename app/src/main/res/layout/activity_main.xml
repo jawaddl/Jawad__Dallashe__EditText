@@ -271,7 +271,7 @@
         android:id="@+id/textView5"
         android:layout_width="2dp"
         android:layout_height="305dp"
-        android:text="||||||||||||||||||||||||||||||||||||||||"
+        android:text="|||||||||||||||||||||||||||||||||||||||||"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.327"
         app:layout_constraintStart_toStartOf="parent"
