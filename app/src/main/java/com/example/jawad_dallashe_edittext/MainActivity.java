@@ -16,15 +16,14 @@ import java.util.Random;
 
     public class MainActivity extends AppCompatActivity {
         private TextView Tv1, Tv2, Tv3, Tv4, Tv5, Tv6;
-        private EditText Et1, Et2, Et3;
         private ImageView Image1, Image2, Image3;
         private Button Test1, Test2, Test3;
+        private EditText Et1, Et2, Et3;
         private Button Restart;
 
         private int random1,random2,random3,random4,random5,random6;
-
-        int sum;
         double rating;
+        int sum;
 
 
 
